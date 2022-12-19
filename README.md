@@ -1,2 +1,0 @@
-# whatdoieattoday
-html, js, css
