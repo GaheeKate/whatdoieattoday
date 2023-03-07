@@ -1,12 +1,12 @@
-#What do I eat today?
-##If you are not a fan of cooking and want to try the recipes you know only, this is the one you need.
+# What do I eat today?
+## If you are not a fan of cooking and want to try the recipes you know only, this is the one you need.
 
 
 This app shows what you can eat today and shopping lists for the next meals.
 Language: HTML, CSS, JS
 
 ---
-###Functions.
+### Functions.
 
 1. Main1. Refrigerator
   Ingredients will be saved in local storage.
